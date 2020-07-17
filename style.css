@@ -1,0 +1,13 @@
+.red {
+    background: red;
+    height: 250px;
+    width: 250px;
+}
+
+.red:hover {
+    background: blue;
+}
+
+a:hover {
+    color: yellow;
+}
